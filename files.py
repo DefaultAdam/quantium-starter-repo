@@ -2,9 +2,9 @@ import pandas as pd
 
 # manually list the files
 files = [
-    "/daily_sales_data_0.csv",
-    "/daily_sales_data_1.csv",
-    "/daily_sales_data_2.csv"
+    "data/daily_sales_data_0.csv",
+    "data/daily_sales_data_1.csv",
+    "data/daily_sales_data_2.csv"
 ]
 
 frames = []
